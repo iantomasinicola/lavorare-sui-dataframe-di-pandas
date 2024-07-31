@@ -1,2 +1,2 @@
-# lavorare-sui-dataframe-di-pandas
-Come analizzare i dati all'interno di un DataFrame di Pandas
+# Analisi dei dati su Pandas
+In questo Notebook riporto tutte le principali operazioni di analisi dei dati su un dataframe di Pandas.
