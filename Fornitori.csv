@@ -1,0 +1,7 @@
+﻿NumeroFornitore;Denominazione;RegioneResidenza;DataPrimaAcquisto;FornitoreAttivo;DataFineContratto
+1;Fornitore 1;Lombardia;02/05/2017;1;01/05/2019
+2;Fornitore 2;Piemonte;02/01/2014;1;30/06/2019
+3;Fornitore 3;Lombardia;02/03/2018;0;30/05/2018
+4;Fornitore 4;Puglia;02/01/2019;1;30/08/2018
+5;Fornitore 5;Marche;02/06/2018;0;30/05/2018
+
